@@ -1,1 +1,36 @@
-<mxfile host="www.draw.io" modified="2020-02-27T15:30:17.604Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="lL9M5OwuuIfC8gdh4ZKK" version="12.7.9" type="github"><diagram id="hhu0UNKDP63KK2aRm4P-" name="Page-1">7VZbb9owGP01eewUOxDC47h0VVXUh0zas4lNYuHEqXEK2a/fZ+zcCqigDu1lQSL2+S62zzkWeME8P/xQpMxWkjLhYZ8evGDhYTyOMHwboLbAaOKAVHFqIdQBMf/NHOg7tOKU7QaJWkqheTkEE1kULNEDjCgl98O0jRTDVUuSshMgTog4RX9xqjOLRnjS4U+Mp1mzMgqnNpKTJtmdZJcRKvc9KFh6wVxJqe0oP8yZMNw1vNi6xwvRdmOKFfqagqheL+Np/Pa4IuR5q15ojhYPTox3Iip3YA+HAvrNNhLawq517agI3yrZBB52R6G+Q8K0PHQxGKXm/ZPtTPGCaNL0g43ZljbDcdJ2x0BPaYaF1PCa7TOuWVySxGB7sBZgmc4FzBAM1yTZpkpWBX2ttOAFczglavsKVVwbv/nf/LHZMRdiLoVUx5UCqI1oAPhOK7llvQgORqMxNZFGK9Ru9Z0pzQ4XuUetonATmMyZVjWkuAIcORO4WxC66b6zVANlPTdNHEacidO2caczDJzUN8ge3El2RXjxX/fLuqPJPxYeRV9WHvnnpLeSw7ngWNhfkSQz4mA/1gR0vdELSQ3SUqau8IOxAqMv688M8sELm7H5nPNCeHzcsXu4fe7gERR+8Ih/nUeiu3lkesYjl5SqlKhnCkhn+nO1lFXLzf76ZRsNiZye8ojP8Ijw7UTCtPvhPsZ6/36C5R8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-03-15T10:58:07.031Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="faAwlMfcop6Y5zlgt8gO" version="12.8.5" type="github">
+  <diagram id="hhu0UNKDP63KK2aRm4P-" name="Page-1">
+    <mxGraphModel dx="615" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8ybES9SqFMaaJkrLdm1D-2" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Test Data&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;size=16;" parent="1" vertex="1">
+          <mxGeometry x="280" y="70" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8ybES9SqFMaaJkrLdm1D-3" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Train Data&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="280" y="190" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8ybES9SqFMaaJkrLdm1D-18" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Data with Machine State Label&lt;/font&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="100" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ybES9SqFMaaJkrLdm1D-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="90" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uanoQKULLMIdTWRapYiI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="8ybES9SqFMaaJkrLdm1D-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uanoQKULLMIdTWRapYiI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="uanoQKULLMIdTWRapYiI-6" target="8ybES9SqFMaaJkrLdm1D-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uanoQKULLMIdTWRapYiI-6" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;Powerdata with label&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;20190813&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="60" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uanoQKULLMIdTWRapYiI-7" value="&lt;span style=&quot;font-size: 10px ; white-space: normal&quot;&gt;Powerdata with label 20190704&lt;/span&gt;&lt;br style=&quot;font-size: 10px ; white-space: normal&quot;&gt;&lt;span style=&quot;font-size: 10px ; white-space: normal&quot;&gt;20190722&lt;/span&gt;&lt;br style=&quot;font-size: 10px ; white-space: normal&quot;&gt;&lt;span style=&quot;font-size: 10px ; white-space: normal&quot;&gt;20190812&lt;/span&gt;&lt;br style=&quot;font-size: 10px ; white-space: normal&quot;&gt;&lt;span style=&quot;font-size: 10px ; white-space: normal&quot;&gt;20190827&lt;/span&gt;&lt;br style=&quot;font-size: 10px ; white-space: normal&quot;&gt;&lt;span style=&quot;font-size: 10px ; white-space: normal&quot;&gt;20190903&lt;/span&gt;&lt;br style=&quot;font-size: 10px ; white-space: normal&quot;&gt;&lt;span style=&quot;font-size: 10px ; white-space: normal&quot;&gt;20190918&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="155" width="130" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
